@@ -1,7 +1,10 @@
 {
-    "recommendations": [
-      "ms-vscode.vscode-typescript-tslint-plugin",
-      "dbaeumer.vscode-eslint",
-      "msjsdiag.debugger-for-chrome"
-    ]
-  }
+	"recommendations": [
+                "VisualStudioExptTeam.vscodeintellicode",
+                "ms-mssql.mssql",
+                "ms-vscode.azure-account",
+                "ms-azuretools.vscode-azureappservice",
+		"ms-azuretools.vscode-docker",
+                "MS-vsliveshare.vsliveshare-pack"
+	]
+}
