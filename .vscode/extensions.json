@@ -1,10 +1,5 @@
 {
 	"recommendations": [
-                "VisualStudioExptTeam.vscodeintellicode",
-                "ms-mssql.mssql",
-                "ms-vscode.azure-account",
-                "ms-azuretools.vscode-azureappservice",
-		"ms-azuretools.vscode-docker",
-                "MS-vsliveshare.vsliveshare-pack"
+                "joyceerhl.vscode-pyodide"
 	]
 }
